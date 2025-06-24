@@ -1,4 +1,4 @@
-#Inheritance
+# Single Inheritance
 class Car:
   color = "Black"
   @staticmethod
